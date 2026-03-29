@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://aluminiumhadarom.co.il/sitemap.xml
